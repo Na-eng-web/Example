@@ -1,0 +1,5 @@
+1) Create an account on Github.
+2) cd change directory.
+3) git init
+4) git remote -v
+5) git remote add origin link
